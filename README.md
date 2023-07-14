@@ -1,6 +1,8 @@
 # helloworld
-This is my first github repository for learning hoe to use it.
+This is my first github repository for learning how to use it.
 
-main update main111
 b1 update 111
+main update main111
+
+update success!
 
